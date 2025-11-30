@@ -8,6 +8,10 @@
 </p>
 
 ---
+## ✨ ScreenShort
+
+<img src="https://github.com/ajokbyy/Hr_DashBoard_PowerBI/blob/main/DashBoardByPowerBi.png" height="40" alt="C" />
+---
 
 ## 📌 Overview  
 This project presents a **complete HR Attrition Analytics Dashboard** built using **Power BI**.  
